@@ -14,3 +14,13 @@ a.navbar-item{
 h1, h2, h3{
     color:#eb1f28
 }
+
+.button.is-link {
+    background-color: #eb1f28;
+    border-color: transparent;
+    color: #fff;
+}
+
+.bg-overlay{
+    background: linear-gradient(135deg,rgba(30,33,33,.82) 1%,rgba(32,32,32,.14) 98%);
+}

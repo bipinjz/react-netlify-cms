@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great Adventures
+title: Great Adventures 
 image: /img/eve.jpg
 heading: Welcome 
-subheading: Experience mount everest
+subheading: Stories from travellers 
 mainpitch:
   title: Lorem ipsum
   description: >

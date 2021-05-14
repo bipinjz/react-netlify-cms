@@ -1,0 +1,16 @@
+.navbar-item img {
+    max-height: 3.5rem;
+}
+a.navbar-item{
+    transition: ease;
+    transition-duration: 1000ms;
+    
+    
+    &:hover{
+        color:#eb1f28
+
+    }
+}
+h1, h2, h3{
+    color:#eb1f28
+}
